@@ -1,0 +1,76 @@
+body {
+  background-color: #e9ecef;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.navbar-dark .navbar-brand {
+  color: #1376c7;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #1376c7;
+}
+
+li {
+  list-style: circle;
+  list-style-position: inside;
+}
+
+.display-4 {
+  margin-top: -15px;
+  margin-bottom: 30px;
+}
+
+.products {
+  background-color: #fff;
+  padding: 15px 15px;
+}
+
+.products-header {
+  text-align: center;
+  color: #df5900;
+  padding-top: 15px;
+}
+
+.product-link {
+  color: #df5900;
+}
+
+.product-link:hover {
+  color: #1376c7;
+}
+
+.btn-primary {
+  background-color: #df5900;
+  border-color: #df5900;
+}
+
+.btn-primary:hover {
+  background-color: #1376c7;
+  border-color: #1376c7;
+}
+
+h3 {
+  font-size: 20px;
+  margin-top: 25px;
+  height: 50px;
+  color: #1376c7;
+}
+
+.card-title {
+  text-align: center;
+  color: #df5900;
+}
+
+.text-muted {
+  color: #df5900 !important;
+}
+
+.card {
+  background-color: #e9ecef;
+}
